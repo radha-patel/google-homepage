@@ -18,7 +18,7 @@ img {
     width: 450px;
     height: 0.5px;
     margin-top: 25px;
-    background-image: url('magnifying-glass.jpg'), url('mic-icon.png');
+    background-image: url('images/magnifying-glass.jpg'), url('images/mic-icon.png');
     background-size: 25px 25px, 15px 20px;
     background-position: 10px 8px, 505px 10px;
     background-repeat: no-repeat;
