@@ -1,0 +1,1 @@
+This project is a replica of the Google.com homepage.
